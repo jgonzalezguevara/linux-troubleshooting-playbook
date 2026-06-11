@@ -2,22 +2,36 @@
 
 Real-world Linux troubleshooting procedures, checklists and operational diagnostics.
 
-Topics covered:
+## Sections
 
-- CPU analysis
-- Memory troubleshooting
-- Disk and filesystem issues
-- Network diagnostics
-- Systemd services
-- Log analysis
-- Performance bottlenecks
-- Incident response
+- CPU
+- Memory
+- Disk
+- Network
+- Systemd
+- Logs
+- Incident Response
 
-Website:
+## Website
+
 https://desdeelservidor.es
 
-Author:
-https://desdeelservidor.es/autor-jose-gonzalez.html
+## Linux Troubleshooting
 
-Training:
+https://desdeelservidor.es/entradas/revisar-servidor-linux-cuando-falla.html
+
+## Linux Commands
+
+https://desdeelservidor.es/entradas/10-comandos-linux-servidor-lento.html
+
+## Training
+
 https://desdeelservidor.es/formacion.html
+
+## Technical Library
+
+https://desdeelservidor.es/biblioteca-linux-devops.html
+
+## Author
+
+https://desdeelservidor.es/autor-jose-gonzalez.html
